@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-truffle migrate
+truffle migrate --reset
 
